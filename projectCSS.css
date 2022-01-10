@@ -1,0 +1,23 @@
+h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    padding-top: 10px;
+    margin: 0px;
+}
+
+#create_resume {
+    color: white;
+    background: linear-gradient(to bottom right, rebeccapurple, gray);
+    border: 5px black;
+    border-radius: 5px;
+    width: 120px;
+    height: 30px;
+}
+
+#resume_builder_header {
+    color: white;
+    background: linear-gradient(to bottom right, rebeccapurple, gray);
+}
